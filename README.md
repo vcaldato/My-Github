@@ -7,5 +7,7 @@
 ##### git pull -> atualiza o repositório local
 ##### git pull (significado) -> significa basicamente dois comandos git fetch e git merge.
 ##### git log -> acessa o históricos dos commits
+##### git -a v1.0 -m "Versão 1.0" -> cria uma tag para marcar o próximo commit
+
 
 
