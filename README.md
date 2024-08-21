@@ -9,5 +9,6 @@
 ##### git log -> acessa o históricos dos commits
 ##### git -a v1.0 -m "Versão 1.0" -> cria uma tag para marcar o próximo commit
 
+##### No pull request é uma solicitação de atualização...
 
 
