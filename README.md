@@ -37,4 +37,7 @@
 #### git checkout -b NomeDaBranch - criar uma nova branch;
 #### git checkout NomeDaBranch - alterar de branch;
 #### git branch -d NomeDaBranch - deletar uma branch;
+#### Para fazer um pull request - git checkout -b minha-nova-featureFaça as alterações necessárias no código Adicione as mudanças ao stage: git add . Faça um commit das suas mudanças: git commit -m "Descrição das mudanças" Envie as alterações para o seu repositório remoto: git push origin minha-nova-feature Crie um Pull Request no GitHub: Vá até o seu repositório no GitHub. Clique em "Compare & pull request". Preencha os detalhes e crie o Pull Request.
+#### fazer uma reviews - Abra o Pull Request que você criou. No lado direito da página, procure a seção "Reviewers".Clique em "Reviewers" e selecione os membros que você quer adicionar como revisores. Os revisores receberão uma notificação para revisar seu Pull Request.
+
 
